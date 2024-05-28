@@ -1,5 +1,6 @@
 # Cloud Native AI (CNAI) Assignments 
 
+
 ## Assignment I: Cloud Native AI Presentation
 
 All Quarter 3, 4, and 5 students and all Faculty Members will make a presentation titled **Cloud Native AI Introduction, Challenges, and Path Forward**. All of you have one week to complete the presentation using the following reading material: 
